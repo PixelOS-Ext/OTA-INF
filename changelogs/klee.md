@@ -4,6 +4,7 @@
 - Add charging info instead of charging eta
 - MiuiCamera fully working
 - Move spoof settings into System instead of developer option
+- HOT FIX
 
 # June 20, 2026
 - Fixup watermark on camera (finally working)
