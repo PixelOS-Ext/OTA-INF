@@ -1,3 +1,7 @@
+# June 23, 2026
+- Add video mode pro for MiuiCamera
+- Now you can use LOG mode and Import LUT's
+
 # June 21, 2026
 - Increase QS status bar side padding
 - Fixup biometric bottomsheet insets
