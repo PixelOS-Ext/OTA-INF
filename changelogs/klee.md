@@ -1,3 +1,7 @@
+# June 24, 2026
+- Add Battery percentage (lol i deleted it before)
+- Swap zram to 75% of RAM
+
 # June 23, 2026
 - Add video mode pro for MiuiCamera
 - Now you can use LOG mode and Import LUT's
